@@ -1,0 +1,26 @@
+.logo{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: auto;
+    align-items: center;
+}
+div img{
+    height: 200px;
+    width: 200px;
+}
+div p{
+    font-size: 30px;
+    color: rgb(19, 127, 45);
+    margin-top: -50px;
+}
+div h1{
+    color: red;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 10px;
+}
+div h3{
+    font-weight: 100;
+    margin-left: 30px;
+}
